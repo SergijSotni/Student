@@ -1,0 +1,15 @@
+D:\Programing\Progects\Student\Student\bin\Debug\net7.0\Student.exe
+D:\Programing\Progects\Student\Student\bin\Debug\net7.0\Student.deps.json
+D:\Programing\Progects\Student\Student\bin\Debug\net7.0\Student.runtimeconfig.json
+D:\Programing\Progects\Student\Student\bin\Debug\net7.0\Student.dll
+D:\Programing\Progects\Student\Student\bin\Debug\net7.0\Student.pdb
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.csproj.AssemblyReference.cache
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.AssemblyInfoInputs.cache
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.AssemblyInfo.cs
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.csproj.CoreCompileInputs.cache
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.dll
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\refint\Student.dll
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.pdb
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\Student.genruntimeconfig.cache
+D:\Programing\Progects\Student\Student\obj\Debug\net7.0\ref\Student.dll
