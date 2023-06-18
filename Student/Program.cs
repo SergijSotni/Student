@@ -29,6 +29,10 @@ namespace Student
                 Console.Write("Введiть команду:");
                 commands = Console.ReadLine();
 
+                if (commands == "Stop")
+                {
+                    break;
+                }
                 switch (commands) 
                 {
                     case "Add":
@@ -91,6 +95,9 @@ namespace Student
                         Console.WriteLine(GPA);
 
                         break;
+                    case "Clear":
+                        Console.Clear();
+                        break;
                     default:
                         Console.WriteLine("Ви ввели не правильну команду.");
 
@@ -106,7 +113,8 @@ namespace Student
             Console.WriteLine("Remove - видалити студента з списку,");
             Console.WriteLine("Print - вивести усіх студентів за фамілією,");
             Console.WriteLine("Print GPA - виводить середній бал усіх студентів,");
-            Console.WriteLine("Print all - виводить список усіх студентів.");
+            Console.WriteLine("Clear - очищує консоль,");
+            Console.WriteLine("Stop - зупиняє роботу програми.");
         }
     }
     class Student 
