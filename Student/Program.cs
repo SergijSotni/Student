@@ -112,7 +112,7 @@ namespace Student
             Console.WriteLine("Add - додати студента до списку,");
             Console.WriteLine("Remove - видалити студента з списку,");
             Console.WriteLine("Print - вивести усіх студентів за фамілією,");
-            Console.WriteLine("Print - вивести усіх студентів,");
+            Console.WriteLine("Print all - вивести усіх студентів,");
             Console.WriteLine("Print GPA - виводить середній бал усіх студентів,");
             Console.WriteLine("Clear - очищує консоль,");
             Console.WriteLine("Stop - зупиняє роботу програми.");
